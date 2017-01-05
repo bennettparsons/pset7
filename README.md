@@ -1,6 +1,6 @@
 # pset7
 
-This repository contains my solutions to problem set 7 of Harvard's second introductory computer science course. Code I wrote summarized below.
+This repository contains my solutions to problem set 7 of Harvard's second introductory computer science course. Code I wrote summarized below; for more details, see problem set specification (pset7.pdf).
 
 What I implemented:
 
